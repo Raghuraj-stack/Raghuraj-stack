@@ -8,6 +8,8 @@
 
 ---
 
+# ⚡ Coding Profiles
+
 <p align="left">
 
 <a href="https://leetcode.com/u/Raghuraj_111/">
@@ -23,6 +25,10 @@
 </a>
 
 </p>
+
+---
+
+</div>
 
 ---
 
