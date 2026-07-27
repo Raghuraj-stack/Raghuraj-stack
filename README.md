@@ -7,10 +7,10 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=3500&pause=1000&color=00C2FF&center=true&vCenter=true&width=600&lines=Artificial+Intelligence+Student;Full+Stack+MERN+Developer;Backend+Engineering+Enthusiast;Building+AI+%26+Multi-Agent+Systems;Always+Learning+New+Technologies" />
 
 ---
-<div>
-# ⚡ Coding Profiles
 
-<p align="left">
+
+
+<p align="center">
 
 <a href="https://leetcode.com/u/Raghuraj_111/">
 <img src="https://img.shields.io/badge/LeetCode-orange?style=for-the-badge&logo=leetcode"/>
@@ -27,7 +27,7 @@
 </p>
 
 ---
-</div>
+
 </div>
 
 ---
