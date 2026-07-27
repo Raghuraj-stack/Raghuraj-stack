@@ -230,25 +230,6 @@ Research project involving
 
 ---
 
-# ⚡ Coding Profiles
-
-<p align="left">
-
-<a href="https://leetcode.com/u/Raghuraj_111/">
-<img src="https://img.shields.io/badge/LeetCode-orange?style=for-the-badge&logo=leetcode"/>
-</a>
-
-<a href="https://codeforces.com/profile/Raghuraj_111">
-<img src="https://img.shields.io/badge/Codeforces-blue?style=for-the-badge&logo=codeforces"/>
-</a>
-
-<a href="https://www.linkedin.com/in/raghuraj-singh-chouhan-3708a2367/">
-<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
-</a>
-
-</p>
-
----
 
 # 📫 Connect with Me
 
