@@ -210,16 +210,6 @@ Research project involving
 
 ---
 
-# 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Raghuraj-stack&theme=tokyonight&margin-w=15&margin-h=15"/>
-
-</p>
-
----
-
 # 💻 LeetCode Stats
 
 <p align="center">
